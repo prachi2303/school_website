@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/PRACHI/Desktop/portfolio1"
+		},
+		{
+			"path": "../CSS"
+		},
+		{
+			"path": "../interior design project"
+		},
+		{
+			"path": "C:/Users/PRACHI/Desktop/prachi_dubal"
+		},
+		{
+			"path": "C:/Users/PRACHI/Desktop/WD1 PRoject"
+		},
+		{
+			"path": "../bootstrap"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "../javascript"
+		},
+		{
+			"path": "../jquary"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "school_website  project"
+	}
+}
